@@ -34,6 +34,13 @@ export default function Project() {
             tech: ["HTML", "CSS", "JavaScript"],
             view: "https://e-commerce-dusky-eight-37.vercel.app/",
             code: "https://github.com/patidar-dheeraj-dev/e-commerce"
+        },
+        {
+            title: "React-E-Commerce",
+            image: "/react-ecommerce.png",
+            tech: ["React","Redux","Axios"],
+            view: "/",
+            code: "https://github.com/patidar-dheeraj-dev/e-commerce-react-project"
         }
     ];
     return (
